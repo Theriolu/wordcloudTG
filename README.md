@@ -42,3 +42,15 @@ In the first field you have to select the **result.json** file that you've expor
 In the second field you *can* add your own list of [stop words](https://en.wikipedia.org/wiki/Stop_word), for example specific to your language. You can find them [here](https://github.com/stopwords-iso/). You can also set a custom resolution for the resulting image.
 
 Then you can click on **Go** and the word cloud will be <ins>**saved to the directory where you've exported the chat**</ins> in .PNG format.
+
+
+## Credits
+### SF Pro font by Apple
+San Francisco is an Apple designed typeface that provides a consistent, legible, and friendly typographic voice. Across all Apple products, the size-specific outlines and dynamic tracking ensure optimal legibility at every point size and screen resolution. Numbers have proportional widths by default, so they feel harmonious and naturally spaced within the time and data-centric interfaces people use every day.
+
+Nine weights, including italics — and features like small caps, fractions, inferior and superior numerals, indices, arrows, and more — offer breadth and depth for precision typesetting. San Francisco also adapts intelligently to different contexts. When indicating time, for example, the colon in San Francisco switches to a vertically centered form. And each operating system works with the typeface to apply size-specific font features automatically.
+https://developer.apple.com/fonts/
+
+### Catppuccin color palette
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more!
+https://github.com/catppuccin/catppuccin
