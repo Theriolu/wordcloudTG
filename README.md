@@ -41,4 +41,4 @@ In the first field you have to select the **result.json** file that you've expor
 
 In the second field you *can* add your own list of [stop words](https://en.wikipedia.org/wiki/Stop_word), for example specific to your language. You can find them [here](https://github.com/stopwords-iso/). You can also set a custom resolution for the resulting image.
 
-Then you can click on **Go** and the word cloud will be <ins>**saved to the directory where you've installed the program**</ins> in .PNG format.
+Then you can click on **Go** and the word cloud will be <ins>**saved to the directory where you've exported the chat**</ins> in .PNG format.
