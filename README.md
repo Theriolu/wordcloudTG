@@ -62,10 +62,11 @@ Then you can click on **Go** and the word cloud will be <ins>**saved to the dire
   <img src="https://github.com/user-attachments/assets/c87ebdbf-bbcd-4edd-a3bb-facd686ff687" alt="Advanced GUI">
 </p>
 
-Advanced settings let tweak your word cloud to get a better looking result and add aditional generation options:
+Advanced settings let you tweak your word cloud to get a better looking result and add aditional generation options:
   
 * **Mask** - Makes the words flow in a custom shape.
   * When using a mask the resulting image will be the same resolution as the mask.
+  * Mask can be any color you want, where masked out area shold be **#FFFFFF** white.
 * **Mask Color Inheritance** - Makes the words inherit their color from the mask based on their position.
 
 <img src="https://github.com/user-attachments/assets/69dae8a0-175c-4ce9-a8ba-81e3fde92f2c" width="500" alt="Example word cloud of Pavel Durov's channel with masking and coloring">
